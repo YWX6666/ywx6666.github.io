@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ywx6666.github.io//sitemap.xml
